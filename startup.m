@@ -1,1 +1,1 @@
-open Exercises\VirtualSensorModelExercises.mlx
+open Exercises/VirtualSensorModelExercises.mlx
